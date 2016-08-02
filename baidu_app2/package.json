@@ -1,0 +1,24 @@
+{
+  "name": "baidu_news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hivan Du",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.2.0",
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "fs": "0.0.2",
+    "log": "^1.4.0",
+    "morgan": "^1.7.0",
+    "mysql": "^2.11.1",
+    "orm": "^3.1.0",
+    "serve-favicon": "^2.3.0"
+  }
+}
